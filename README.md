@@ -1,4 +1,4 @@
-# Weather App
+# Simple Weather App
 
 A simple weather app built using JavaScript and a weather API. The app allows users to check the current weather and forecast by entering your city name.
 
